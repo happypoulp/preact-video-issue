@@ -1,6 +1,6 @@
 # Preact video issue
 
-This repository is a demo of an issue affecting playback of an html5 `<video>` when used under certain circumstamces with preact.
+This repository is a demo of an issue affecting playback of an html5 `<video>` when used under certain circumstamces with preact (version 8.2.0).
 
 ## Steps to reproduce the issue
 
